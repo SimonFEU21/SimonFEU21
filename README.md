@@ -9,6 +9,6 @@ Skills:
 - CSS
 - Vanilla JavaScript
 - VUE
-- React (currently learning it)
+- React
 
 The best way to get in touch with me is by Email: Simon.habchi@gmail.com
